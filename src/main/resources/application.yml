@@ -1,0 +1,12 @@
+# Define the /path that the consumer of this we service will use to access the web service
+server:
+  servlet:
+    context-path: "/hello_userid"
+
+# Configure Spring Actuator
+management:
+  endpoints:
+    web:
+      base-path: /
+      exposure:
+        include: health, prometheus
