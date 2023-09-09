@@ -1,7 +1,7 @@
 # Define the /path that the consumer of this we service will use to access the web service
 server:
   servlet:
-    context-path: "/hello_userid"
+    context-path: "/hello_jisqhx3"
 
 # Configure Spring Actuator
 management:

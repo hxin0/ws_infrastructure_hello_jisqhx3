@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jbhunt</groupId>
-	<artifactId>ws_infrastructure_hello_userid</artifactId>
-	<version>1.0.0</version>
-	<name>ws_infrastructure_hello_userid</name>
+	<artifactId>ws_infrastructure_hello_jisqhx3</artifactId>
+	<version>1.1.0</version>
+	<name>ws_infrastructure_hello_jisqhx3</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
